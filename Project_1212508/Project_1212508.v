@@ -1,4 +1,3 @@
-// Name: Qusay Taradeh, ID Num.1212508, Instructor Name: Elias Khalil, Section Num.3
 
 `timescale 1ns/1ns
 
